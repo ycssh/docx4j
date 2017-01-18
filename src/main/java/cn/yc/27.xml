@@ -1,0 +1,1814 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+<pkg:package xmlns:pkg="http://schemas.microsoft.com/office/2006/xmlPackage">
+    <pkg:part pkg:name="/_rels/.rels" pkg:contentType="application/vnd.openxmlformats-package.relationships+xml"
+              pkg:padding="512">
+        <pkg:xmlData>
+            <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+                <Relationship Id="rId3"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/extended-properties"
+                              Target="docProps/app.xml"/>
+                <Relationship Id="rId2"
+                              Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties"
+                              Target="docProps/core.xml"/>
+                <Relationship Id="rId1"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument"
+                              Target="word/document.xml"/>
+            </Relationships>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/_rels/document.xml.rels"
+              pkg:contentType="application/vnd.openxmlformats-package.relationships+xml" pkg:padding="256">
+        <pkg:xmlData>
+            <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+                <Relationship Id="rId3"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/webSettings"
+                              Target="webSettings.xml"/>
+                <Relationship Id="rId2"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/settings"
+                              Target="settings.xml"/>
+                <Relationship Id="rId1"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles"
+                              Target="styles.xml"/>
+                <Relationship Id="rId6" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme"
+                              Target="theme/theme1.xml"/>
+                <Relationship Id="rId5"
+                              Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/fontTable"
+                              Target="fontTable.xml"/>
+                <Relationship Id="rId4" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/image"
+                              Target="media/image1.jpeg"/>
+            </Relationships>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/document.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml">
+        <pkg:xmlData>
+            <w:document mc:Ignorable="w14 w15 wp14"
+                        xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+                        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                        xmlns:o="urn:schemas-microsoft-com:office:office"
+                        xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+                        xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+                        xmlns:v="urn:schemas-microsoft-com:vml"
+                        xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+                        xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+                        xmlns:w10="urn:schemas-microsoft-com:office:word"
+                        xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+                        xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+                        xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+                        xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+                        xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+                        xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+                        xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+                <w:body>
+                    <w:p w:rsidR="002B3202" w:rsidRDefault="001A4050">
+                        <w:pPr>
+                            <w:spacing w:line="300" w:lineRule="auto"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:bookmarkStart w:id="0" w:name="_GoBack"/>
+                        <w:bookmarkEnd w:id="0"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>28.</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>读大西洋及其周围海区海水运动图，回答下列问题。（共</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>22</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>分）</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w:rsidR="002B3202" w:rsidRDefault="001A4050">
+                        <w:pPr>
+                            <w:spacing w:line="300" w:lineRule="auto"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体"/>
+                                <w:kern w:val="0"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">           </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:cs="宋体"/>
+                                <w:noProof/>
+                                <w:kern w:val="0"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:drawing>
+                                <wp:inline distT="0" distB="0" distL="0" distR="0">
+                                    <wp:extent cx="2571750" cy="2095500"/>
+                                    <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                                    <wp:docPr id="5" name="图片 4" descr="%@9M[%3`KSB7D7EF1ILSK4F"/>
+                                    <wp:cNvGraphicFramePr>
+                                        <a:graphicFrameLocks noChangeAspect="1"
+                                                             xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+                                    </wp:cNvGraphicFramePr>
+                                    <a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                        <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                            <pic:pic
+                                                    xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                                <pic:nvPicPr>
+                                                    <pic:cNvPr id="0" name="图片 4" descr="%@9M[%3`KSB7D7EF1ILSK4F"/>
+                                                    <pic:cNvPicPr>
+                                                        <a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+                                                    </pic:cNvPicPr>
+                                                </pic:nvPicPr>
+                                                <pic:blipFill>
+                                                    <a:blip r:embed="rId4">
+                                                        <a:extLst>
+                                                            <a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+                                                                <a14:useLocalDpi val="0"
+                                                                                 xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main"/>
+                                                            </a:ext>
+                                                        </a:extLst>
+                                                    </a:blip>
+                                                    <a:srcRect/>
+                                                    <a:stretch>
+                                                        <a:fillRect/>
+                                                    </a:stretch>
+                                                </pic:blipFill>
+                                                <pic:spPr bwMode="auto">
+                                                    <a:xfrm>
+                                                        <a:off x="0" y="0"/>
+                                                        <a:ext cx="2571750" cy="2095500"/>
+                                                    </a:xfrm>
+                                                    <a:prstGeom prst="rect">
+                                                        <a:avLst/>
+                                                    </a:prstGeom>
+                                                    <a:noFill/>
+                                                    <a:ln>
+                                                        <a:noFill/>
+                                                    </a:ln>
+                                                </pic:spPr>
+                                            </pic:pic>
+                                        </a:graphicData>
+                                    </a:graphic>
+                                </wp:inline>
+                            </w:drawing>
+                        </w:r>
+                    </w:p>
+                    <w:p w:rsidR="002B3202" w:rsidRDefault="001A4050">
+                        <w:pPr>
+                            <w:spacing w:line="300" w:lineRule="auto"/>
+                            <w:ind w:left="525" w:hangingChars="250" w:hanging="525"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>（</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>1</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>）图中数字代表的洋流名称分别是：①</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                                <w:u w:val="single"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">                 </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>，②</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                                <w:u w:val="single"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">                </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>。</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w:rsidR="002B3202" w:rsidRDefault="001A4050">
+                        <w:pPr>
+                            <w:spacing w:line="300" w:lineRule="auto"/>
+                            <w:ind w:left="420" w:hangingChars="200" w:hanging="420"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>（</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>2</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>）冬季西欧气温远高于东亚，主要是受</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                                <w:u w:val="single"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">             </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>（洋流</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>）</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>的影响。图示海区的渔场</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>P</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>是</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                                <w:u w:val="single"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">         </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>渔场，其形成的原因是：</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                                <w:u w:val="single"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">                                   </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">   </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>。图示南美西海岸的渔场是</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                                <w:u w:val="single"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">         </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>渔场。其形成的原因是：</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                                <w:u w:val="single"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">                                                                 </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>。</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w:rsidR="002B3202" w:rsidRDefault="001A4050">
+                        <w:pPr>
+                            <w:spacing w:line="300" w:lineRule="auto"/>
+                            <w:ind w:left="420" w:hangingChars="200" w:hanging="420"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>（</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>3</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>）一艘轮船</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>12</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>月从美国出发，于一月中旬到达北极圈以内的摩尔曼斯克，沿途所见的下列现象是否可能？并说明理由。</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w:rsidR="002B3202" w:rsidRDefault="001A4050">
+                        <w:pPr>
+                            <w:spacing w:line="300" w:lineRule="auto"/>
+                            <w:ind w:left="420" w:hangingChars="200" w:hanging="420"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">   </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>①从美国到北欧的摩尔曼斯克的航程中受洋流影响，船速较慢。</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w:rsidR="002B3202" w:rsidRDefault="001A4050">
+                        <w:pPr>
+                            <w:spacing w:line="300" w:lineRule="auto"/>
+                            <w:ind w:leftChars="200" w:left="420" w:firstLineChars="150" w:firstLine="315"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                                <w:u w:val="single"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">         </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>，理由是</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                                <w:u w:val="single"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">                                      </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>。</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w:rsidR="002B3202" w:rsidRDefault="001A4050">
+                        <w:pPr>
+                            <w:spacing w:line="300" w:lineRule="auto"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">   </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>②船到英国附近海域时，可能发现来自美国东北部工业区的污染物。</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:p w:rsidR="002B3202" w:rsidRDefault="001A4050">
+                        <w:pPr>
+                            <w:spacing w:line="300" w:lineRule="auto"/>
+                            <w:ind w:firstLineChars="300" w:firstLine="630"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                                <w:u w:val="single"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">         </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>，理由</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>是</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                                <w:u w:val="single"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">                                      </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                <w:szCs w:val="21"/>
+                            </w:rPr>
+                            <w:t>。</w:t>
+                        </w:r>
+                    </w:p>
+                    <w:sectPr w:rsidR="002B3202">
+                        <w:pgSz w:w="11907" w:h="16839" w:code="9"/>
+                        <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720"
+                                 w:gutter="0"/>
+                        <w:cols w:space="720"/>
+                    </w:sectPr>
+                </w:body>
+            </w:document>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/media/image1.jpeg" pkg:contentType="image/jpeg" pkg:compression="store">
+        <pkg:binaryData>/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
+            CwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQU
+            FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCADcAQ4DASIA
+            AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+            AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+            ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+            p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+            AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+            BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+            U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+            uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD7W0u/
+            +J/xA8cfEKz8O+JvCXh7R/DWtQ6RBDqfhi61G4m3abY3jSNKmowL968ZQoj4CDkk1bvNE+LVhepZ
+            z/E/4fpdunmLAPAl8XK5xuwNYzjIPNanwK/5Hn45f9jnb/8AqP6PXoK/8jxJ/wBg5P8A0a1aOTu9
+            SUlY8n/sr4sf9FN8Bf8AhA3/AP8ALiqmkt8StesUvdO+LHw8vrN2ZVnt/Al86MVJVgCNYwcEEH3F
+            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
+            /9k=
+        </pkg:binaryData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/theme/theme1.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.theme+xml">
+        <pkg:xmlData>
+            <a:theme name="Office 主题" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                <a:themeElements>
+                    <a:clrScheme name="Office">
+                        <a:dk1>
+                            <a:sysClr val="windowText" lastClr="000000"/>
+                        </a:dk1>
+                        <a:lt1>
+                            <a:sysClr val="window" lastClr="FFFFFF"/>
+                        </a:lt1>
+                        <a:dk2>
+                            <a:srgbClr val="44546A"/>
+                        </a:dk2>
+                        <a:lt2>
+                            <a:srgbClr val="E7E6E6"/>
+                        </a:lt2>
+                        <a:accent1>
+                            <a:srgbClr val="5B9BD5"/>
+                        </a:accent1>
+                        <a:accent2>
+                            <a:srgbClr val="ED7D31"/>
+                        </a:accent2>
+                        <a:accent3>
+                            <a:srgbClr val="A5A5A5"/>
+                        </a:accent3>
+                        <a:accent4>
+                            <a:srgbClr val="FFC000"/>
+                        </a:accent4>
+                        <a:accent5>
+                            <a:srgbClr val="4472C4"/>
+                        </a:accent5>
+                        <a:accent6>
+                            <a:srgbClr val="70AD47"/>
+                        </a:accent6>
+                        <a:hlink>
+                            <a:srgbClr val="0563C1"/>
+                        </a:hlink>
+                        <a:folHlink>
+                            <a:srgbClr val="954F72"/>
+                        </a:folHlink>
+                    </a:clrScheme>
+                    <a:fontScheme name="Office">
+                        <a:majorFont>
+                            <a:latin typeface="Calibri Light" panose="020F0302020204030204"/>
+                            <a:ea typeface=""/>
+                            <a:cs typeface=""/>
+                            <a:font script="Jpan" typeface="ＭＳ ゴシック"/>
+                            <a:font script="Hang" typeface="맑은 고딕"/>
+                            <a:font script="Hans" typeface="宋体"/>
+                            <a:font script="Hant" typeface="新細明體"/>
+                            <a:font script="Arab" typeface="Times New Roman"/>
+                            <a:font script="Hebr" typeface="Times New Roman"/>
+                            <a:font script="Thai" typeface="Angsana New"/>
+                            <a:font script="Ethi" typeface="Nyala"/>
+                            <a:font script="Beng" typeface="Vrinda"/>
+                            <a:font script="Gujr" typeface="Shruti"/>
+                            <a:font script="Khmr" typeface="MoolBoran"/>
+                            <a:font script="Knda" typeface="Tunga"/>
+                            <a:font script="Guru" typeface="Raavi"/>
+                            <a:font script="Cans" typeface="Euphemia"/>
+                            <a:font script="Cher" typeface="Plantagenet Cherokee"/>
+                            <a:font script="Yiii" typeface="Microsoft Yi Baiti"/>
+                            <a:font script="Tibt" typeface="Microsoft Himalaya"/>
+                            <a:font script="Thaa" typeface="MV Boli"/>
+                            <a:font script="Deva" typeface="Mangal"/>
+                            <a:font script="Telu" typeface="Gautami"/>
+                            <a:font script="Taml" typeface="Latha"/>
+                            <a:font script="Syrc" typeface="Estrangelo Edessa"/>
+                            <a:font script="Orya" typeface="Kalinga"/>
+                            <a:font script="Mlym" typeface="Kartika"/>
+                            <a:font script="Laoo" typeface="DokChampa"/>
+                            <a:font script="Sinh" typeface="Iskoola Pota"/>
+                            <a:font script="Mong" typeface="Mongolian Baiti"/>
+                            <a:font script="Viet" typeface="Times New Roman"/>
+                            <a:font script="Uigh" typeface="Microsoft Uighur"/>
+                            <a:font script="Geor" typeface="Sylfaen"/>
+                        </a:majorFont>
+                        <a:minorFont>
+                            <a:latin typeface="Calibri" panose="020F0502020204030204"/>
+                            <a:ea typeface=""/>
+                            <a:cs typeface=""/>
+                            <a:font script="Jpan" typeface="ＭＳ 明朝"/>
+                            <a:font script="Hang" typeface="맑은 고딕"/>
+                            <a:font script="Hans" typeface="宋体"/>
+                            <a:font script="Hant" typeface="新細明體"/>
+                            <a:font script="Arab" typeface="Arial"/>
+                            <a:font script="Hebr" typeface="Arial"/>
+                            <a:font script="Thai" typeface="Cordia New"/>
+                            <a:font script="Ethi" typeface="Nyala"/>
+                            <a:font script="Beng" typeface="Vrinda"/>
+                            <a:font script="Gujr" typeface="Shruti"/>
+                            <a:font script="Khmr" typeface="DaunPenh"/>
+                            <a:font script="Knda" typeface="Tunga"/>
+                            <a:font script="Guru" typeface="Raavi"/>
+                            <a:font script="Cans" typeface="Euphemia"/>
+                            <a:font script="Cher" typeface="Plantagenet Cherokee"/>
+                            <a:font script="Yiii" typeface="Microsoft Yi Baiti"/>
+                            <a:font script="Tibt" typeface="Microsoft Himalaya"/>
+                            <a:font script="Thaa" typeface="MV Boli"/>
+                            <a:font script="Deva" typeface="Mangal"/>
+                            <a:font script="Telu" typeface="Gautami"/>
+                            <a:font script="Taml" typeface="Latha"/>
+                            <a:font script="Syrc" typeface="Estrangelo Edessa"/>
+                            <a:font script="Orya" typeface="Kalinga"/>
+                            <a:font script="Mlym" typeface="Kartika"/>
+                            <a:font script="Laoo" typeface="DokChampa"/>
+                            <a:font script="Sinh" typeface="Iskoola Pota"/>
+                            <a:font script="Mong" typeface="Mongolian Baiti"/>
+                            <a:font script="Viet" typeface="Arial"/>
+                            <a:font script="Uigh" typeface="Microsoft Uighur"/>
+                            <a:font script="Geor" typeface="Sylfaen"/>
+                        </a:minorFont>
+                    </a:fontScheme>
+                    <a:fmtScheme name="Office">
+                        <a:fillStyleLst>
+                            <a:solidFill>
+                                <a:schemeClr val="phClr"/>
+                            </a:solidFill>
+                            <a:gradFill rotWithShape="1">
+                                <a:gsLst>
+                                    <a:gs pos="0">
+                                        <a:schemeClr val="phClr">
+                                            <a:lumMod val="110000"/>
+                                            <a:satMod val="105000"/>
+                                            <a:tint val="67000"/>
+                                        </a:schemeClr>
+                                    </a:gs>
+                                    <a:gs pos="50000">
+                                        <a:schemeClr val="phClr">
+                                            <a:lumMod val="105000"/>
+                                            <a:satMod val="103000"/>
+                                            <a:tint val="73000"/>
+                                        </a:schemeClr>
+                                    </a:gs>
+                                    <a:gs pos="100000">
+                                        <a:schemeClr val="phClr">
+                                            <a:lumMod val="105000"/>
+                                            <a:satMod val="109000"/>
+                                            <a:tint val="81000"/>
+                                        </a:schemeClr>
+                                    </a:gs>
+                                </a:gsLst>
+                                <a:lin ang="5400000" scaled="0"/>
+                            </a:gradFill>
+                            <a:gradFill rotWithShape="1">
+                                <a:gsLst>
+                                    <a:gs pos="0">
+                                        <a:schemeClr val="phClr">
+                                            <a:satMod val="103000"/>
+                                            <a:lumMod val="102000"/>
+                                            <a:tint val="94000"/>
+                                        </a:schemeClr>
+                                    </a:gs>
+                                    <a:gs pos="50000">
+                                        <a:schemeClr val="phClr">
+                                            <a:satMod val="110000"/>
+                                            <a:lumMod val="100000"/>
+                                            <a:shade val="100000"/>
+                                        </a:schemeClr>
+                                    </a:gs>
+                                    <a:gs pos="100000">
+                                        <a:schemeClr val="phClr">
+                                            <a:lumMod val="99000"/>
+                                            <a:satMod val="120000"/>
+                                            <a:shade val="78000"/>
+                                        </a:schemeClr>
+                                    </a:gs>
+                                </a:gsLst>
+                                <a:lin ang="5400000" scaled="0"/>
+                            </a:gradFill>
+                        </a:fillStyleLst>
+                        <a:lnStyleLst>
+                            <a:ln w="6350" cap="flat" cmpd="sng" algn="ctr">
+                                <a:solidFill>
+                                    <a:schemeClr val="phClr"/>
+                                </a:solidFill>
+                                <a:prstDash val="solid"/>
+                                <a:miter lim="800000"/>
+                            </a:ln>
+                            <a:ln w="12700" cap="flat" cmpd="sng" algn="ctr">
+                                <a:solidFill>
+                                    <a:schemeClr val="phClr"/>
+                                </a:solidFill>
+                                <a:prstDash val="solid"/>
+                                <a:miter lim="800000"/>
+                            </a:ln>
+                            <a:ln w="19050" cap="flat" cmpd="sng" algn="ctr">
+                                <a:solidFill>
+                                    <a:schemeClr val="phClr"/>
+                                </a:solidFill>
+                                <a:prstDash val="solid"/>
+                                <a:miter lim="800000"/>
+                            </a:ln>
+                        </a:lnStyleLst>
+                        <a:effectStyleLst>
+                            <a:effectStyle>
+                                <a:effectLst/>
+                            </a:effectStyle>
+                            <a:effectStyle>
+                                <a:effectLst/>
+                            </a:effectStyle>
+                            <a:effectStyle>
+                                <a:effectLst>
+                                    <a:outerShdw blurRad="57150" dist="19050" dir="5400000" algn="ctr" rotWithShape="0">
+                                        <a:srgbClr val="000000">
+                                            <a:alpha val="63000"/>
+                                        </a:srgbClr>
+                                    </a:outerShdw>
+                                </a:effectLst>
+                            </a:effectStyle>
+                        </a:effectStyleLst>
+                        <a:bgFillStyleLst>
+                            <a:solidFill>
+                                <a:schemeClr val="phClr"/>
+                            </a:solidFill>
+                            <a:solidFill>
+                                <a:schemeClr val="phClr">
+                                    <a:tint val="95000"/>
+                                    <a:satMod val="170000"/>
+                                </a:schemeClr>
+                            </a:solidFill>
+                            <a:gradFill rotWithShape="1">
+                                <a:gsLst>
+                                    <a:gs pos="0">
+                                        <a:schemeClr val="phClr">
+                                            <a:tint val="93000"/>
+                                            <a:satMod val="150000"/>
+                                            <a:shade val="98000"/>
+                                            <a:lumMod val="102000"/>
+                                        </a:schemeClr>
+                                    </a:gs>
+                                    <a:gs pos="50000">
+                                        <a:schemeClr val="phClr">
+                                            <a:tint val="98000"/>
+                                            <a:satMod val="130000"/>
+                                            <a:shade val="90000"/>
+                                            <a:lumMod val="103000"/>
+                                        </a:schemeClr>
+                                    </a:gs>
+                                    <a:gs pos="100000">
+                                        <a:schemeClr val="phClr">
+                                            <a:shade val="63000"/>
+                                            <a:satMod val="120000"/>
+                                        </a:schemeClr>
+                                    </a:gs>
+                                </a:gsLst>
+                                <a:lin ang="5400000" scaled="0"/>
+                            </a:gradFill>
+                        </a:bgFillStyleLst>
+                    </a:fmtScheme>
+                </a:themeElements>
+                <a:objectDefaults/>
+                <a:extraClrSchemeLst/>
+                <a:extLst>
+                    <a:ext uri="{05A4C25C-085E-4340-85A3-A5531E510DB2}">
+                        <thm15:themeFamily name="Office Theme" id="{62F939B6-93AF-4DB8-9C6B-D6C7DFDC589F}"
+                                           vid="{4A3C46E8-61CC-4603-A589-7422A47A8E4A}"
+                                           xmlns:thm15="http://schemas.microsoft.com/office/thememl/2012/main"/>
+                    </a:ext>
+                </a:extLst>
+            </a:theme>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/settings.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml">
+        <pkg:xmlData>
+            <w:settings mc:Ignorable="w14 w15" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                        xmlns:o="urn:schemas-microsoft-com:office:office"
+                        xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+                        xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+                        xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word"
+                        xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+                        xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+                        xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+                        xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main">
+                <w:zoom w:percent="100"/>
+                <w:bordersDoNotSurroundHeader/>
+                <w:bordersDoNotSurroundFooter/>
+                <w:proofState w:spelling="clean" w:grammar="clean"/>
+                <w:defaultTabStop w:val="420"/>
+                <w:characterSpacingControl w:val="doNotCompress"/>
+                <w:compat>
+                    <w:useFELayout/>
+                    <w:compatSetting w:name="compatibilityMode" w:uri="http://schemas.microsoft.com/office/word"
+                                     w:val="12"/>
+                    <w:compatSetting w:name="overrideTableStyleFontSizeAndJustification"
+                                     w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
+                </w:compat>
+                <w:rsids>
+                    <w:rsidRoot w:val="001A4050"/>
+                    <w:rsid w:val="001A4050"/>
+                </w:rsids>
+                <m:mathPr>
+                    <m:mathFont m:val="Cambria Math"/>
+                    <m:brkBin m:val="before"/>
+                    <m:brkBinSub m:val="--"/>
+                    <m:smallFrac m:val="0"/>
+                    <m:dispDef/>
+                    <m:lMargin m:val="0"/>
+                    <m:rMargin m:val="0"/>
+                    <m:defJc m:val="centerGroup"/>
+                    <m:wrapIndent m:val="1440"/>
+                    <m:intLim m:val="subSup"/>
+                    <m:naryLim m:val="undOvr"/>
+                </m:mathPr>
+                <w:themeFontLang w:val="en-US" w:eastAsia="zh-CN"/>
+                <w:clrSchemeMapping w:bg1="light1" w:t1="dark1" w:bg2="light2" w:t2="dark2" w:accent1="accent1"
+                                    w:accent2="accent2" w:accent3="accent3" w:accent4="accent4" w:accent5="accent5"
+                                    w:accent6="accent6" w:hyperlink="hyperlink"
+                                    w:followedHyperlink="followedHyperlink"/>
+                <w:shapeDefaults>
+                    <o:shapedefaults v:ext="edit" spidmax="1026"/>
+                    <o:shapelayout v:ext="edit">
+                        <o:idmap v:ext="edit" data="1"/>
+                    </o:shapelayout>
+                </w:shapeDefaults>
+                <w:decimalSymbol w:val="."/>
+                <w:listSeparator w:val=","/>
+                <w15:docId w15:val="{C3C5B6DB-83E7-41C1-A7FB-B4DE629F1421}"/>
+            </w:settings>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/webSettings.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.webSettings+xml">
+        <pkg:xmlData>
+            <w:webSettings mc:Ignorable="w14 w15" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                           xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+                           xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+                           xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+                           xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"/>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/docProps/core.xml" pkg:contentType="application/vnd.openxmlformats-package.core-properties+xml"
+              pkg:padding="256">
+        <pkg:xmlData>
+            <cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties"
+                               xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+                               xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+                               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <dc:creator>yuchao</dc:creator>
+                <cp:lastModifiedBy>yuchao</cp:lastModifiedBy>
+                <cp:revision>2</cp:revision>
+                <dcterms:created xsi:type="dcterms:W3CDTF">2017-01-13T08:23:00Z</dcterms:created>
+                <dcterms:modified xsi:type="dcterms:W3CDTF">2017-01-13T08:23:00Z</dcterms:modified>
+            </cp:coreProperties>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/styles.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml">
+        <pkg:xmlData>
+            <w:styles mc:Ignorable="w14 w15" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                      xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+                      xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+                      xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+                      xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml">
+                <w:docDefaults>
+                    <w:rPrDefault>
+                        <w:rPr>
+                            <w:rFonts w:ascii="Times New Roman" w:eastAsia="宋体" w:hAnsi="Times New Roman"
+                                      w:cs="Times New Roman"/>
+                            <w:lang w:val="en-US" w:eastAsia="zh-CN" w:bidi="ar-SA"/>
+                        </w:rPr>
+                    </w:rPrDefault>
+                    <w:pPrDefault/>
+                </w:docDefaults>
+                <w:latentStyles w:defLockedState="0" w:defUIPriority="0" w:defSemiHidden="0" w:defUnhideWhenUsed="0"
+                                w:defQFormat="0" w:count="371">
+                    <w:lsdException w:name="Normal" w:qFormat="1"/>
+                    <w:lsdException w:name="heading 1" w:qFormat="1"/>
+                    <w:lsdException w:name="heading 2" w:semiHidden="1" w:unhideWhenUsed="1" w:qFormat="1"/>
+                    <w:lsdException w:name="heading 3" w:semiHidden="1" w:unhideWhenUsed="1" w:qFormat="1"/>
+                    <w:lsdException w:name="heading 4" w:semiHidden="1" w:unhideWhenUsed="1" w:qFormat="1"/>
+                    <w:lsdException w:name="heading 5" w:semiHidden="1" w:unhideWhenUsed="1" w:qFormat="1"/>
+                    <w:lsdException w:name="heading 6" w:semiHidden="1" w:unhideWhenUsed="1" w:qFormat="1"/>
+                    <w:lsdException w:name="heading 7" w:semiHidden="1" w:unhideWhenUsed="1" w:qFormat="1"/>
+                    <w:lsdException w:name="heading 8" w:semiHidden="1" w:unhideWhenUsed="1" w:qFormat="1"/>
+                    <w:lsdException w:name="heading 9" w:semiHidden="1" w:unhideWhenUsed="1" w:qFormat="1"/>
+                    <w:lsdException w:name="caption" w:semiHidden="1" w:unhideWhenUsed="1" w:qFormat="1"/>
+                    <w:lsdException w:name="Title" w:qFormat="1"/>
+                    <w:lsdException w:name="Subtitle" w:qFormat="1"/>
+                    <w:lsdException w:name="Strong" w:qFormat="1"/>
+                    <w:lsdException w:name="Emphasis" w:qFormat="1"/>
+                    <w:lsdException w:name="HTML Top of Form" w:semiHidden="1" w:uiPriority="99" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="HTML Bottom of Form" w:semiHidden="1" w:uiPriority="99"
+                                    w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Normal Table" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="No List" w:semiHidden="1" w:uiPriority="99" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Outline List 1" w:semiHidden="1" w:uiPriority="99" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Outline List 2" w:semiHidden="1" w:uiPriority="99" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Outline List 3" w:semiHidden="1" w:uiPriority="99" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Simple 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Simple 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Simple 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Classic 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Classic 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Classic 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Classic 4" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Colorful 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Colorful 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Colorful 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Columns 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Columns 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Columns 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Columns 4" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Columns 5" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Grid 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Grid 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Grid 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Grid 4" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Grid 5" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Grid 6" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Grid 7" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Grid 8" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table List 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table List 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table List 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table List 4" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table List 5" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table List 6" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table List 7" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table List 8" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table 3D effects 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table 3D effects 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table 3D effects 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Contemporary" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Elegant" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Professional" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Subtle 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Subtle 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Web 1" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Web 2" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Table Web 3" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Balloon Text" w:semiHidden="1"/>
+                    <w:lsdException w:name="Table Theme" w:semiHidden="1" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="Placeholder Text" w:semiHidden="1" w:uiPriority="99" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="No Spacing" w:uiPriority="99" w:qFormat="1"/>
+                    <w:lsdException w:name="Light Shading" w:uiPriority="60"/>
+                    <w:lsdException w:name="Light List" w:uiPriority="61"/>
+                    <w:lsdException w:name="Light Grid" w:uiPriority="62"/>
+                    <w:lsdException w:name="Medium Shading 1" w:uiPriority="63"/>
+                    <w:lsdException w:name="Medium Shading 2" w:uiPriority="64"/>
+                    <w:lsdException w:name="Medium List 1" w:uiPriority="65"/>
+                    <w:lsdException w:name="Medium List 2" w:uiPriority="66"/>
+                    <w:lsdException w:name="Medium Grid 1" w:uiPriority="67"/>
+                    <w:lsdException w:name="Medium Grid 2" w:uiPriority="68"/>
+                    <w:lsdException w:name="Medium Grid 3" w:uiPriority="69"/>
+                    <w:lsdException w:name="Dark List" w:uiPriority="70"/>
+                    <w:lsdException w:name="Colorful Shading" w:uiPriority="71"/>
+                    <w:lsdException w:name="Colorful List" w:uiPriority="72"/>
+                    <w:lsdException w:name="Colorful Grid" w:uiPriority="73"/>
+                    <w:lsdException w:name="Light Shading Accent 1" w:uiPriority="60"/>
+                    <w:lsdException w:name="Light List Accent 1" w:uiPriority="61"/>
+                    <w:lsdException w:name="Light Grid Accent 1" w:uiPriority="62"/>
+                    <w:lsdException w:name="Medium Shading 1 Accent 1" w:uiPriority="63"/>
+                    <w:lsdException w:name="Medium Shading 2 Accent 1" w:uiPriority="64"/>
+                    <w:lsdException w:name="Medium List 1 Accent 1" w:uiPriority="65"/>
+                    <w:lsdException w:name="Revision" w:semiHidden="1" w:uiPriority="99" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="List Paragraph" w:uiPriority="99" w:qFormat="1"/>
+                    <w:lsdException w:name="Quote" w:uiPriority="99" w:qFormat="1"/>
+                    <w:lsdException w:name="Intense Quote" w:uiPriority="99" w:qFormat="1"/>
+                    <w:lsdException w:name="Medium List 2 Accent 1" w:uiPriority="66"/>
+                    <w:lsdException w:name="Medium Grid 1 Accent 1" w:uiPriority="67"/>
+                    <w:lsdException w:name="Medium Grid 2 Accent 1" w:uiPriority="68"/>
+                    <w:lsdException w:name="Medium Grid 3 Accent 1" w:uiPriority="69"/>
+                    <w:lsdException w:name="Dark List Accent 1" w:uiPriority="70"/>
+                    <w:lsdException w:name="Colorful Shading Accent 1" w:uiPriority="71"/>
+                    <w:lsdException w:name="Colorful List Accent 1" w:uiPriority="72"/>
+                    <w:lsdException w:name="Colorful Grid Accent 1" w:uiPriority="73"/>
+                    <w:lsdException w:name="Light Shading Accent 2" w:uiPriority="60"/>
+                    <w:lsdException w:name="Light List Accent 2" w:uiPriority="61"/>
+                    <w:lsdException w:name="Light Grid Accent 2" w:uiPriority="62"/>
+                    <w:lsdException w:name="Medium Shading 1 Accent 2" w:uiPriority="63"/>
+                    <w:lsdException w:name="Medium Shading 2 Accent 2" w:uiPriority="64"/>
+                    <w:lsdException w:name="Medium List 1 Accent 2" w:uiPriority="65"/>
+                    <w:lsdException w:name="Medium List 2 Accent 2" w:uiPriority="66"/>
+                    <w:lsdException w:name="Medium Grid 1 Accent 2" w:uiPriority="67"/>
+                    <w:lsdException w:name="Medium Grid 2 Accent 2" w:uiPriority="68"/>
+                    <w:lsdException w:name="Medium Grid 3 Accent 2" w:uiPriority="69"/>
+                    <w:lsdException w:name="Dark List Accent 2" w:uiPriority="70"/>
+                    <w:lsdException w:name="Colorful Shading Accent 2" w:uiPriority="71"/>
+                    <w:lsdException w:name="Colorful List Accent 2" w:uiPriority="72"/>
+                    <w:lsdException w:name="Colorful Grid Accent 2" w:uiPriority="73"/>
+                    <w:lsdException w:name="Light Shading Accent 3" w:uiPriority="60"/>
+                    <w:lsdException w:name="Light List Accent 3" w:uiPriority="61"/>
+                    <w:lsdException w:name="Light Grid Accent 3" w:uiPriority="62"/>
+                    <w:lsdException w:name="Medium Shading 1 Accent 3" w:uiPriority="63"/>
+                    <w:lsdException w:name="Medium Shading 2 Accent 3" w:uiPriority="64"/>
+                    <w:lsdException w:name="Medium List 1 Accent 3" w:uiPriority="65"/>
+                    <w:lsdException w:name="Medium List 2 Accent 3" w:uiPriority="66"/>
+                    <w:lsdException w:name="Medium Grid 1 Accent 3" w:uiPriority="67"/>
+                    <w:lsdException w:name="Medium Grid 2 Accent 3" w:uiPriority="68"/>
+                    <w:lsdException w:name="Medium Grid 3 Accent 3" w:uiPriority="69"/>
+                    <w:lsdException w:name="Dark List Accent 3" w:uiPriority="70"/>
+                    <w:lsdException w:name="Colorful Shading Accent 3" w:uiPriority="71"/>
+                    <w:lsdException w:name="Colorful List Accent 3" w:uiPriority="72"/>
+                    <w:lsdException w:name="Colorful Grid Accent 3" w:uiPriority="73"/>
+                    <w:lsdException w:name="Light Shading Accent 4" w:uiPriority="60"/>
+                    <w:lsdException w:name="Light List Accent 4" w:uiPriority="61"/>
+                    <w:lsdException w:name="Light Grid Accent 4" w:uiPriority="62"/>
+                    <w:lsdException w:name="Medium Shading 1 Accent 4" w:uiPriority="63"/>
+                    <w:lsdException w:name="Medium Shading 2 Accent 4" w:uiPriority="64"/>
+                    <w:lsdException w:name="Medium List 1 Accent 4" w:uiPriority="65"/>
+                    <w:lsdException w:name="Medium List 2 Accent 4" w:uiPriority="66"/>
+                    <w:lsdException w:name="Medium Grid 1 Accent 4" w:uiPriority="67"/>
+                    <w:lsdException w:name="Medium Grid 2 Accent 4" w:uiPriority="68"/>
+                    <w:lsdException w:name="Medium Grid 3 Accent 4" w:uiPriority="69"/>
+                    <w:lsdException w:name="Dark List Accent 4" w:uiPriority="70"/>
+                    <w:lsdException w:name="Colorful Shading Accent 4" w:uiPriority="71"/>
+                    <w:lsdException w:name="Colorful List Accent 4" w:uiPriority="72"/>
+                    <w:lsdException w:name="Colorful Grid Accent 4" w:uiPriority="73"/>
+                    <w:lsdException w:name="Light Shading Accent 5" w:uiPriority="60"/>
+                    <w:lsdException w:name="Light List Accent 5" w:uiPriority="61"/>
+                    <w:lsdException w:name="Light Grid Accent 5" w:uiPriority="62"/>
+                    <w:lsdException w:name="Medium Shading 1 Accent 5" w:uiPriority="63"/>
+                    <w:lsdException w:name="Medium Shading 2 Accent 5" w:uiPriority="64"/>
+                    <w:lsdException w:name="Medium List 1 Accent 5" w:uiPriority="65"/>
+                    <w:lsdException w:name="Medium List 2 Accent 5" w:uiPriority="66"/>
+                    <w:lsdException w:name="Medium Grid 1 Accent 5" w:uiPriority="67"/>
+                    <w:lsdException w:name="Medium Grid 2 Accent 5" w:uiPriority="68"/>
+                    <w:lsdException w:name="Medium Grid 3 Accent 5" w:uiPriority="69"/>
+                    <w:lsdException w:name="Dark List Accent 5" w:uiPriority="70"/>
+                    <w:lsdException w:name="Colorful Shading Accent 5" w:uiPriority="71"/>
+                    <w:lsdException w:name="Colorful List Accent 5" w:uiPriority="72"/>
+                    <w:lsdException w:name="Colorful Grid Accent 5" w:uiPriority="73"/>
+                    <w:lsdException w:name="Light Shading Accent 6" w:uiPriority="60"/>
+                    <w:lsdException w:name="Light List Accent 6" w:uiPriority="61"/>
+                    <w:lsdException w:name="Light Grid Accent 6" w:uiPriority="62"/>
+                    <w:lsdException w:name="Medium Shading 1 Accent 6" w:uiPriority="63"/>
+                    <w:lsdException w:name="Medium Shading 2 Accent 6" w:uiPriority="64"/>
+                    <w:lsdException w:name="Medium List 1 Accent 6" w:uiPriority="65"/>
+                    <w:lsdException w:name="Medium List 2 Accent 6" w:uiPriority="66"/>
+                    <w:lsdException w:name="Medium Grid 1 Accent 6" w:uiPriority="67"/>
+                    <w:lsdException w:name="Medium Grid 2 Accent 6" w:uiPriority="68"/>
+                    <w:lsdException w:name="Medium Grid 3 Accent 6" w:uiPriority="69"/>
+                    <w:lsdException w:name="Dark List Accent 6" w:uiPriority="70"/>
+                    <w:lsdException w:name="Colorful Shading Accent 6" w:uiPriority="71"/>
+                    <w:lsdException w:name="Colorful List Accent 6" w:uiPriority="72"/>
+                    <w:lsdException w:name="Colorful Grid Accent 6" w:uiPriority="73"/>
+                    <w:lsdException w:name="Subtle Emphasis" w:uiPriority="19" w:qFormat="1"/>
+                    <w:lsdException w:name="Intense Emphasis" w:uiPriority="21" w:qFormat="1"/>
+                    <w:lsdException w:name="Subtle Reference" w:uiPriority="31" w:qFormat="1"/>
+                    <w:lsdException w:name="Intense Reference" w:uiPriority="32" w:qFormat="1"/>
+                    <w:lsdException w:name="Book Title" w:uiPriority="33" w:qFormat="1"/>
+                    <w:lsdException w:name="Bibliography" w:semiHidden="1" w:uiPriority="37" w:unhideWhenUsed="1"/>
+                    <w:lsdException w:name="TOC Heading" w:semiHidden="1" w:uiPriority="39" w:unhideWhenUsed="1"
+                                    w:qFormat="1"/>
+                    <w:lsdException w:name="Plain Table 1" w:uiPriority="41"/>
+                    <w:lsdException w:name="Plain Table 2" w:uiPriority="42"/>
+                    <w:lsdException w:name="Plain Table 3" w:uiPriority="43"/>
+                    <w:lsdException w:name="Plain Table 4" w:uiPriority="44"/>
+                    <w:lsdException w:name="Plain Table 5" w:uiPriority="45"/>
+                    <w:lsdException w:name="Grid Table Light" w:uiPriority="40"/>
+                    <w:lsdException w:name="Grid Table 1 Light" w:uiPriority="46"/>
+                    <w:lsdException w:name="Grid Table 2" w:uiPriority="47"/>
+                    <w:lsdException w:name="Grid Table 3" w:uiPriority="48"/>
+                    <w:lsdException w:name="Grid Table 4" w:uiPriority="49"/>
+                    <w:lsdException w:name="Grid Table 5 Dark" w:uiPriority="50"/>
+                    <w:lsdException w:name="Grid Table 6 Colorful" w:uiPriority="51"/>
+                    <w:lsdException w:name="Grid Table 7 Colorful" w:uiPriority="52"/>
+                    <w:lsdException w:name="Grid Table 1 Light Accent 1" w:uiPriority="46"/>
+                    <w:lsdException w:name="Grid Table 2 Accent 1" w:uiPriority="47"/>
+                    <w:lsdException w:name="Grid Table 3 Accent 1" w:uiPriority="48"/>
+                    <w:lsdException w:name="Grid Table 4 Accent 1" w:uiPriority="49"/>
+                    <w:lsdException w:name="Grid Table 5 Dark Accent 1" w:uiPriority="50"/>
+                    <w:lsdException w:name="Grid Table 6 Colorful Accent 1" w:uiPriority="51"/>
+                    <w:lsdException w:name="Grid Table 7 Colorful Accent 1" w:uiPriority="52"/>
+                    <w:lsdException w:name="Grid Table 1 Light Accent 2" w:uiPriority="46"/>
+                    <w:lsdException w:name="Grid Table 2 Accent 2" w:uiPriority="47"/>
+                    <w:lsdException w:name="Grid Table 3 Accent 2" w:uiPriority="48"/>
+                    <w:lsdException w:name="Grid Table 4 Accent 2" w:uiPriority="49"/>
+                    <w:lsdException w:name="Grid Table 5 Dark Accent 2" w:uiPriority="50"/>
+                    <w:lsdException w:name="Grid Table 6 Colorful Accent 2" w:uiPriority="51"/>
+                    <w:lsdException w:name="Grid Table 7 Colorful Accent 2" w:uiPriority="52"/>
+                    <w:lsdException w:name="Grid Table 1 Light Accent 3" w:uiPriority="46"/>
+                    <w:lsdException w:name="Grid Table 2 Accent 3" w:uiPriority="47"/>
+                    <w:lsdException w:name="Grid Table 3 Accent 3" w:uiPriority="48"/>
+                    <w:lsdException w:name="Grid Table 4 Accent 3" w:uiPriority="49"/>
+                    <w:lsdException w:name="Grid Table 5 Dark Accent 3" w:uiPriority="50"/>
+                    <w:lsdException w:name="Grid Table 6 Colorful Accent 3" w:uiPriority="51"/>
+                    <w:lsdException w:name="Grid Table 7 Colorful Accent 3" w:uiPriority="52"/>
+                    <w:lsdException w:name="Grid Table 1 Light Accent 4" w:uiPriority="46"/>
+                    <w:lsdException w:name="Grid Table 2 Accent 4" w:uiPriority="47"/>
+                    <w:lsdException w:name="Grid Table 3 Accent 4" w:uiPriority="48"/>
+                    <w:lsdException w:name="Grid Table 4 Accent 4" w:uiPriority="49"/>
+                    <w:lsdException w:name="Grid Table 5 Dark Accent 4" w:uiPriority="50"/>
+                    <w:lsdException w:name="Grid Table 6 Colorful Accent 4" w:uiPriority="51"/>
+                    <w:lsdException w:name="Grid Table 7 Colorful Accent 4" w:uiPriority="52"/>
+                    <w:lsdException w:name="Grid Table 1 Light Accent 5" w:uiPriority="46"/>
+                    <w:lsdException w:name="Grid Table 2 Accent 5" w:uiPriority="47"/>
+                    <w:lsdException w:name="Grid Table 3 Accent 5" w:uiPriority="48"/>
+                    <w:lsdException w:name="Grid Table 4 Accent 5" w:uiPriority="49"/>
+                    <w:lsdException w:name="Grid Table 5 Dark Accent 5" w:uiPriority="50"/>
+                    <w:lsdException w:name="Grid Table 6 Colorful Accent 5" w:uiPriority="51"/>
+                    <w:lsdException w:name="Grid Table 7 Colorful Accent 5" w:uiPriority="52"/>
+                    <w:lsdException w:name="Grid Table 1 Light Accent 6" w:uiPriority="46"/>
+                    <w:lsdException w:name="Grid Table 2 Accent 6" w:uiPriority="47"/>
+                    <w:lsdException w:name="Grid Table 3 Accent 6" w:uiPriority="48"/>
+                    <w:lsdException w:name="Grid Table 4 Accent 6" w:uiPriority="49"/>
+                    <w:lsdException w:name="Grid Table 5 Dark Accent 6" w:uiPriority="50"/>
+                    <w:lsdException w:name="Grid Table 6 Colorful Accent 6" w:uiPriority="51"/>
+                    <w:lsdException w:name="Grid Table 7 Colorful Accent 6" w:uiPriority="52"/>
+                    <w:lsdException w:name="List Table 1 Light" w:uiPriority="46"/>
+                    <w:lsdException w:name="List Table 2" w:uiPriority="47"/>
+                    <w:lsdException w:name="List Table 3" w:uiPriority="48"/>
+                    <w:lsdException w:name="List Table 4" w:uiPriority="49"/>
+                    <w:lsdException w:name="List Table 5 Dark" w:uiPriority="50"/>
+                    <w:lsdException w:name="List Table 6 Colorful" w:uiPriority="51"/>
+                    <w:lsdException w:name="List Table 7 Colorful" w:uiPriority="52"/>
+                    <w:lsdException w:name="List Table 1 Light Accent 1" w:uiPriority="46"/>
+                    <w:lsdException w:name="List Table 2 Accent 1" w:uiPriority="47"/>
+                    <w:lsdException w:name="List Table 3 Accent 1" w:uiPriority="48"/>
+                    <w:lsdException w:name="List Table 4 Accent 1" w:uiPriority="49"/>
+                    <w:lsdException w:name="List Table 5 Dark Accent 1" w:uiPriority="50"/>
+                    <w:lsdException w:name="List Table 6 Colorful Accent 1" w:uiPriority="51"/>
+                    <w:lsdException w:name="List Table 7 Colorful Accent 1" w:uiPriority="52"/>
+                    <w:lsdException w:name="List Table 1 Light Accent 2" w:uiPriority="46"/>
+                    <w:lsdException w:name="List Table 2 Accent 2" w:uiPriority="47"/>
+                    <w:lsdException w:name="List Table 3 Accent 2" w:uiPriority="48"/>
+                    <w:lsdException w:name="List Table 4 Accent 2" w:uiPriority="49"/>
+                    <w:lsdException w:name="List Table 5 Dark Accent 2" w:uiPriority="50"/>
+                    <w:lsdException w:name="List Table 6 Colorful Accent 2" w:uiPriority="51"/>
+                    <w:lsdException w:name="List Table 7 Colorful Accent 2" w:uiPriority="52"/>
+                    <w:lsdException w:name="List Table 1 Light Accent 3" w:uiPriority="46"/>
+                    <w:lsdException w:name="List Table 2 Accent 3" w:uiPriority="47"/>
+                    <w:lsdException w:name="List Table 3 Accent 3" w:uiPriority="48"/>
+                    <w:lsdException w:name="List Table 4 Accent 3" w:uiPriority="49"/>
+                    <w:lsdException w:name="List Table 5 Dark Accent 3" w:uiPriority="50"/>
+                    <w:lsdException w:name="List Table 6 Colorful Accent 3" w:uiPriority="51"/>
+                    <w:lsdException w:name="List Table 7 Colorful Accent 3" w:uiPriority="52"/>
+                    <w:lsdException w:name="List Table 1 Light Accent 4" w:uiPriority="46"/>
+                    <w:lsdException w:name="List Table 2 Accent 4" w:uiPriority="47"/>
+                    <w:lsdException w:name="List Table 3 Accent 4" w:uiPriority="48"/>
+                    <w:lsdException w:name="List Table 4 Accent 4" w:uiPriority="49"/>
+                    <w:lsdException w:name="List Table 5 Dark Accent 4" w:uiPriority="50"/>
+                    <w:lsdException w:name="List Table 6 Colorful Accent 4" w:uiPriority="51"/>
+                    <w:lsdException w:name="List Table 7 Colorful Accent 4" w:uiPriority="52"/>
+                    <w:lsdException w:name="List Table 1 Light Accent 5" w:uiPriority="46"/>
+                    <w:lsdException w:name="List Table 2 Accent 5" w:uiPriority="47"/>
+                    <w:lsdException w:name="List Table 3 Accent 5" w:uiPriority="48"/>
+                    <w:lsdException w:name="List Table 4 Accent 5" w:uiPriority="49"/>
+                    <w:lsdException w:name="List Table 5 Dark Accent 5" w:uiPriority="50"/>
+                    <w:lsdException w:name="List Table 6 Colorful Accent 5" w:uiPriority="51"/>
+                    <w:lsdException w:name="List Table 7 Colorful Accent 5" w:uiPriority="52"/>
+                    <w:lsdException w:name="List Table 1 Light Accent 6" w:uiPriority="46"/>
+                    <w:lsdException w:name="List Table 2 Accent 6" w:uiPriority="47"/>
+                    <w:lsdException w:name="List Table 3 Accent 6" w:uiPriority="48"/>
+                    <w:lsdException w:name="List Table 4 Accent 6" w:uiPriority="49"/>
+                    <w:lsdException w:name="List Table 5 Dark Accent 6" w:uiPriority="50"/>
+                    <w:lsdException w:name="List Table 6 Colorful Accent 6" w:uiPriority="51"/>
+                    <w:lsdException w:name="List Table 7 Colorful Accent 6" w:uiPriority="52"/>
+                </w:latentStyles>
+                <w:style w:type="paragraph" w:default="1" w:styleId="a">
+                    <w:name w:val="Normal"/>
+                    <w:qFormat/>
+                    <w:pPr>
+                        <w:widowControl w:val="0"/>
+                        <w:jc w:val="both"/>
+                    </w:pPr>
+                    <w:rPr>
+                        <w:kern w:val="2"/>
+                        <w:sz w:val="21"/>
+                    </w:rPr>
+                </w:style>
+                <w:style w:type="character" w:default="1" w:styleId="a0">
+                    <w:name w:val="Default Paragraph Font"/>
+                    <w:uiPriority w:val="1"/>
+                    <w:semiHidden/>
+                    <w:unhideWhenUsed/>
+                </w:style>
+                <w:style w:type="table" w:default="1" w:styleId="a1">
+                    <w:name w:val="Normal Table"/>
+                    <w:uiPriority w:val="99"/>
+                    <w:semiHidden/>
+                    <w:unhideWhenUsed/>
+                    <w:tblPr>
+                        <w:tblInd w:w="0" w:type="dxa"/>
+                        <w:tblCellMar>
+                            <w:top w:w="0" w:type="dxa"/>
+                            <w:left w:w="108" w:type="dxa"/>
+                            <w:bottom w:w="0" w:type="dxa"/>
+                            <w:right w:w="108" w:type="dxa"/>
+                        </w:tblCellMar>
+                    </w:tblPr>
+                </w:style>
+                <w:style w:type="numbering" w:default="1" w:styleId="a2">
+                    <w:name w:val="No List"/>
+                    <w:uiPriority w:val="99"/>
+                    <w:semiHidden/>
+                    <w:unhideWhenUsed/>
+                </w:style>
+                <w:style w:type="character" w:styleId="a3">
+                    <w:name w:val="page number"/>
+                    <w:basedOn w:val="a0"/>
+                </w:style>
+                <w:style w:type="character" w:customStyle="1" w:styleId="Char">
+                    <w:name w:val="纯文本 Char"/>
+                    <w:link w:val="a4"/>
+                    <w:locked/>
+                    <w:rPr>
+                        <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hAnsi="Courier New"/>
+                        <w:kern w:val="2"/>
+                        <w:sz w:val="21"/>
+                        <w:lang w:val="en-US" w:eastAsia="zh-CN" w:bidi="ar-SA"/>
+                    </w:rPr>
+                </w:style>
+                <w:style w:type="paragraph" w:styleId="a4">
+                    <w:name w:val="Plain Text"/>
+                    <w:basedOn w:val="a"/>
+                    <w:link w:val="Char"/>
+                    <w:rPr>
+                        <w:rFonts w:ascii="宋体" w:hAnsi="Courier New"/>
+                    </w:rPr>
+                </w:style>
+                <w:style w:type="paragraph" w:styleId="a5">
+                    <w:name w:val="Balloon Text"/>
+                    <w:basedOn w:val="a"/>
+                    <w:semiHidden/>
+                    <w:rPr>
+                        <w:sz w:val="18"/>
+                        <w:szCs w:val="18"/>
+                    </w:rPr>
+                </w:style>
+                <w:style w:type="paragraph" w:styleId="a6">
+                    <w:name w:val="header"/>
+                    <w:basedOn w:val="a"/>
+                    <w:pPr>
+                        <w:pBdr>
+                            <w:top w:val="none" w:sz="0" w:space="1" w:color="auto"/>
+                            <w:left w:val="none" w:sz="0" w:space="4" w:color="auto"/>
+                            <w:bottom w:val="none" w:sz="0" w:space="1" w:color="auto"/>
+                            <w:right w:val="none" w:sz="0" w:space="4" w:color="auto"/>
+                        </w:pBdr>
+                        <w:tabs>
+                            <w:tab w:val="center" w:pos="4153"/>
+                            <w:tab w:val="right" w:pos="8306"/>
+                        </w:tabs>
+                        <w:snapToGrid w:val="0"/>
+                    </w:pPr>
+                    <w:rPr>
+                        <w:sz w:val="18"/>
+                    </w:rPr>
+                </w:style>
+                <w:style w:type="paragraph" w:styleId="a7">
+                    <w:name w:val="footer"/>
+                    <w:basedOn w:val="a"/>
+                    <w:pPr>
+                        <w:tabs>
+                            <w:tab w:val="center" w:pos="4153"/>
+                            <w:tab w:val="right" w:pos="8306"/>
+                        </w:tabs>
+                        <w:snapToGrid w:val="0"/>
+                        <w:jc w:val="left"/>
+                    </w:pPr>
+                    <w:rPr>
+                        <w:sz w:val="18"/>
+                    </w:rPr>
+                </w:style>
+                <w:style w:type="table" w:styleId="a8">
+                    <w:name w:val="Table Grid"/>
+                    <w:basedOn w:val="a1"/>
+                    <w:pPr>
+                        <w:widowControl w:val="0"/>
+                        <w:jc w:val="both"/>
+                    </w:pPr>
+                    <w:tblPr>
+                        <w:tblBorders>
+                            <w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                            <w:insideH w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                            <w:insideV w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+                        </w:tblBorders>
+                    </w:tblPr>
+                </w:style>
+            </w:styles>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/word/fontTable.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.fontTable+xml">
+        <pkg:xmlData>
+            <w:fonts mc:Ignorable="w14 w15" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                     xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+                     xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+                     xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+                     xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml">
+                <w:font w:name="Times New Roman">
+                    <w:panose1 w:val="02020603050405020304"/>
+                    <w:charset w:val="00"/>
+                    <w:family w:val="roman"/>
+                    <w:pitch w:val="variable"/>
+                    <w:sig w:usb0="E0002EFF" w:usb1="C0007843" w:usb2="00000009" w:usb3="00000000" w:csb0="000001FF"
+                           w:csb1="00000000"/>
+                </w:font>
+                <w:font w:name="宋体">
+                    <w:altName w:val="SimSun"/>
+                    <w:panose1 w:val="02010600030101010101"/>
+                    <w:charset w:val="86"/>
+                    <w:family w:val="auto"/>
+                    <w:pitch w:val="variable"/>
+                    <w:sig w:usb0="00000003" w:usb1="288F0000" w:usb2="00000016" w:usb3="00000000" w:csb0="00040001"
+                           w:csb1="00000000"/>
+                </w:font>
+                <w:font w:name="Courier New">
+                    <w:panose1 w:val="02070309020205020404"/>
+                    <w:charset w:val="00"/>
+                    <w:family w:val="modern"/>
+                    <w:notTrueType/>
+                    <w:pitch w:val="fixed"/>
+                    <w:sig w:usb0="00000003" w:usb1="00000000" w:usb2="00000000" w:usb3="00000000" w:csb0="00000001"
+                           w:csb1="00000000"/>
+                </w:font>
+                <w:font w:name="Calibri Light">
+                    <w:panose1 w:val="020F0302020204030204"/>
+                    <w:charset w:val="00"/>
+                    <w:family w:val="swiss"/>
+                    <w:pitch w:val="variable"/>
+                    <w:sig w:usb0="A00002EF" w:usb1="4000207B" w:usb2="00000000" w:usb3="00000000" w:csb0="0000019F"
+                           w:csb1="00000000"/>
+                </w:font>
+                <w:font w:name="Calibri">
+                    <w:panose1 w:val="020F0502020204030204"/>
+                    <w:charset w:val="00"/>
+                    <w:family w:val="swiss"/>
+                    <w:pitch w:val="variable"/>
+                    <w:sig w:usb0="E00002FF" w:usb1="4000ACFF" w:usb2="00000001" w:usb3="00000000" w:csb0="0000019F"
+                           w:csb1="00000000"/>
+                </w:font>
+            </w:fonts>
+        </pkg:xmlData>
+    </pkg:part>
+    <pkg:part pkg:name="/docProps/app.xml"
+              pkg:contentType="application/vnd.openxmlformats-officedocument.extended-properties+xml" pkg:padding="256">
+        <pkg:xmlData>
+            <Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties"
+                        xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
+                <Template>Normal.dotm</Template>
+                <TotalTime>0</TotalTime>
+                <Pages>1</Pages>
+                <Words>80</Words>
+                <Characters>461</Characters>
+                <Application>Microsoft Office Word</Application>
+                <DocSecurity>0</DocSecurity>
+                <Lines>3</Lines>
+                <Paragraphs>1</Paragraphs>
+                <ScaleCrop>false</ScaleCrop>
+                <Company/>
+                <LinksUpToDate>false</LinksUpToDate>
+                <CharactersWithSpaces>540</CharactersWithSpaces>
+                <SharedDoc>false</SharedDoc>
+                <HyperlinksChanged>false</HyperlinksChanged>
+                <AppVersion>15.0000</AppVersion>
+            </Properties>
+        </pkg:xmlData>
+    </pkg:part>
+</pkg:package>
