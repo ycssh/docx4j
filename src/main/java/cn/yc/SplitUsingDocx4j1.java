@@ -168,10 +168,11 @@ public class SplitUsingDocx4j1 {
 
     private static void filterImage(List<String> images, WordprocessingMLPackage wordMLPackage, WordprocessingMLPackage doc1) throws InvalidFormatException, IOException {
 
-        FileWriter fw = new FileWriter("C:\\Users\\yuchao\\Desktop\\word\\aaa\\a\\"+ System.currentTimeMillis()+".txt");
+//        FileWriter fw = new FileWriter("C:\\Users\\yuchao\\Desktop\\word\\aaa\\a\\"+ System.currentTimeMillis()+".txt");
         String s = XmlUtils.marshaltoString(doc1.getMainDocumentPart().getJaxbElement(), true, true);
-        fw.write(s);
-        fw.flush();
+//        System.out.println(s);
+//        fw.write(s);
+//        fw.flush();
         for (String id : images) {
             if(s.contains(id)){
                 Relationship re = wordMLPackage.getMainDocumentPart().getRelationshipsPart().getRelationshipByID(id);
@@ -184,6 +185,7 @@ public class SplitUsingDocx4j1 {
                 Relationship newRe = doc1.getMainDocumentPart().addTargetPart(bPart);
                 newRe.setId(id);
                 newRe.setType(re.getType());
+                System.out.println(id+"\t"+re.getType());
             }
         }
     }

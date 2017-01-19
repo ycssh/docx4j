@@ -1,5 +1,6 @@
 package cn.yc;
 
+import org.docx4j.Docx4J;
 import org.docx4j.jaxb.Context;
 import org.docx4j.openpackaging.contenttype.ContentType;
 import org.docx4j.openpackaging.exceptions.Docx4JException;
@@ -16,6 +17,14 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;
 import java.util.List;
+
+
+//import com.plutext.merge.BlockRange;
+//import com.plutext.merge.BlockRange.HfBehaviour;
+//import com.plutext.merge.BlockRange.NumberingHandler;
+//import com.plutext.merge.BlockRange.SectionBreakBefore;
+//import com.plutext.merge.BlockRange.StyleHandler;
+//import com.plutext.merge.DocumentBuilder;
 
 /**
  * Created by yuchao on 2017/1/11.
@@ -52,20 +61,40 @@ public class MergeDocx {
             list.add(new FileInputStream("C:\\Users\\yuchao\\Desktop\\word\\aaa\\a\\24.docx"));
             list.add(new FileInputStream("C:\\Users\\yuchao\\Desktop\\word\\aaa\\a\\25.docx"));
             list.add(new FileInputStream("C:\\Users\\yuchao\\Desktop\\word\\aaa\\a\\26.docx"));
-            list.add(new FileInputStream("C:\\Users\\yuchao\\Desktop\\word\\aaa\\a\\27.docx"));
             InputStream inputStream = mergeDocx(list);
 
-            FileOutputStream  fileOu = new FileOutputStream("C:\\Users\\yuchao\\Desktop\\word\\aaa\\a\\merge.docx");
-            byte[] b = new byte[1024];
+            FileOutputStream fileOu = new FileOutputStream("C:\\Users\\yuchao\\Desktop\\word\\aaa\\a\\merge.docx");
+//            byte[] b = new byte[1024];
+//
+//            int hasRead = 0;
+//            while ((hasRead = inputStream.read(b)) > 0) {
+//                fileOu.write(Arrays.copyOfRange(b, 0, hasRead));
+//
+//            }
 
-            int hasRead = 0;
-            while((hasRead = inputStream.read(b))>0)
-            {
-                fileOu.write(Arrays.copyOfRange(b,0,hasRead));
+//            List<BlockRange> blockRanges = new ArrayList<BlockRange>();
+//            for (int i=0 ; i< files.length; i++) {
+//                BlockRange block = new BlockRange(WordprocessingMLPackage.load(
+//                        new File(files[i])));
+//                blockRanges.add(block);
+//                block.setStyleHandler(StyleHandler.RENAME_RETAIN);
+//                block.setNumberingHandler(NumberingHandler.ADD_NEW_LIST);
+//                block.setRestartPageNumbering(false);
+//                block.setHeaderBehaviour(HfBehaviour.DEFAULT);
+//                block.setFooterBehaviour(HfBehaviour.DEFAULT);
+//                block.setSectionBreakBefore(SectionBreakBefore.NEXT_PAGE);
+//            }
+//
+//            // Perform the actual merge
+//            DocumentBuilder documentBuilder = new DocumentBuilder();
+//            WordprocessingMLPackage output = documentBuilder.buildOpenDocument(blockRanges);
+//
+//            // Save the result
+//            Docx4J.save(output,
+//                    new File("c:\\tmp\\docs\\x.docx"),
+//                    Docx4J.FLAG_SAVE_ZIP_FILE);
 
-            }
-
-            } catch (Exception e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }
